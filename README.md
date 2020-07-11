@@ -1,6 +1,6 @@
 ## Book Search App
 
-This a book search app that uses an google API to get the data than it shows different result depends on the different output.
+This a book search app that uses a Google API to get the data than it shows different results depends on the different outputs.
 
 ### Technologies
 1. React.js
